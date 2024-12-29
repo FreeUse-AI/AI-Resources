@@ -69,16 +69,12 @@ Welcome to the FreeUse AI Resources repository! This repository lists the best A
 
 ### MIT License
 The MIT License is a permissive open-source license that allows for free use, modification, and distribution of the software, including for commercial purposes. It requires that the original copyright notice and permission notice be included in all copies or substantial portions of the software. The MIT License is simple and easy to understand, making it popular for libraries, frameworks, and other software components that need to be integrated into a wide range of applications.
-- **Commercial Use**: Ideal for commercial use due to its permissive nature, allowing businesses to integrate the software into proprietary products without the need to open-source their derivative works.
 
 ### Apache 2.0 License
 The Apache 2.0 License is a permissive open-source license that allows for free use, modification, and distribution of the software, including for commercial purposes. It includes a patent grant from contributors, which provides protection against patent litigation. The license requires that any modifications be clearly marked and that the original copyright, license, and disclaimer notices be retained. It also includes provisions for contributing to the project and handling conflicts.
-- **Commercial Use**: Suitable for commercial use, especially for enterprise-grade software, as it provides a patent grant and clear guidelines for contributions and modifications. Businesses can use and distribute the software in proprietary products while benefiting from the patent protection.
 
 ### GPL-3.0 License
 The GNU General Public License version 3.0 (GPL-3.0) is a copyleft open-source license that guarantees end users the freedom to run, study, share, and modify the software. It requires that any derivative works be distributed under the same GPL-3.0 license, ensuring that the software and its derivatives remain free and open-source. The license includes provisions for patent protection and preventing "tivoization," which restricts users from running modified versions of the software on their devices.
-- **Commercial Use**: Can be used commercially, but any derivative works must also be open-sourced under the GPL-3.0 license. This makes it less suitable for proprietary software development but ensures that the software remains free and open for all users.
 
 ### BSD License
 The BSD License is a permissive open-source license that allows for free use, modification, and distribution of the software, including for commercial purposes. It is known for its simplicity and minimal requirements, making it easy to understand and use. The license requires that the original copyright notice and the license text be included in all copies or substantial portions of the software. It does not include a patent grant, and derivative works do not need to be distributed under the same license.
-- **Commercial Use**: Highly suitable for commercial use due to its permissive nature and minimal requirements. Businesses can integrate the software into proprietary products without the need to open-source their derivative works, making it a popular choice for commercial applications.
